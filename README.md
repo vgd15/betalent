@@ -64,4 +64,4 @@ Expansão de detalhes ao clicar no botão na versão mobile
  ├── package.json
  ├── README.md
 
- Vídeo da aplicação funcionando: https://drive.google.com/file/d/1LwcTCS58FKkzRuEQMfw_U8BD1jFir44l/view?usp=sharing
+ Vídeo da aplicação funcionando: https://drive.google.com/file/d/1nUxMZb4-3FyMcIDpYBJVDspoGB4TKUY-/view?usp=sharing
